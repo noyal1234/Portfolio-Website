@@ -12,16 +12,12 @@ Welcome to my personal portfolio website! This site highlights my skills, projec
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML5, CSS3, JavaScript  
-- **Fonts:** Google Fonts (Poppins)  
-- **Deployment:** GitHub Pages / Vercel / Netlify *(Update as needed)*
 
 ## 🔗 Live Preview
 
-
-
 ## 📫 Contact
 
-Feel free to connect through the contact section on the site or email me at **youremail@example.com**.
+Feel free to connect through the contact section on the site or email me at **noyalbastin@gmail.com**.
 
 ---
 
