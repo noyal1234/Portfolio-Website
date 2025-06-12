@@ -17,7 +17,7 @@ Welcome to my personal portfolio website! This site highlights my skills, projec
 
 ## 🔗 Live Preview
 
-👉 [View Live Website](https://your-portfolio-url.com) *(Replace with your actual URL)*
+
 
 ## 📫 Contact
 
